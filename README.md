@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pasha33Pro
 - 👀 I’m interested in Turtle Python.
 - 🌱 I’m currently learning Turtle.
-- 📫 You can reach me in gmail - pashavivanov@gmail.com .
+- 📫 You can reach me in mail - pasha33.pro@yandex.ru .
 
 <!---
 Pasha33Pro/Pasha33Pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
