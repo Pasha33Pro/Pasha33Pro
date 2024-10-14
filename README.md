@@ -1,8 +1,11 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Pasha33 Pro</h1>
-# 💫 About Me:
-🔭 I’m currently developing on POINT GROW 2.0<br>🌱 I’m currently learning ADO.NET<br>📫 How to reach me pythoncreator33@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/Pasha33Pro
 
+- 🔭 I’m currently developing on **POINT GROW 2.0**
+- 🌱 I’m currently learning **ADO.NET**
+
+- 📫 How to reach me **pythoncreator33@gmail.com**
+- 👨‍💻 All of my projects are available at **https://github.com/Pasha33Pro**
 
 <div> <a href="https://github.com/Pasha33Pro" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:pythoncreator33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
