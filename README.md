@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pasha33 Pro</h1>
 
 - 🔭 I’m currently developing on **POINT GROW 2.0**
-- 🌱 I’m currently learning **socket.py**
+- 🌱 I’m currently learning **VOSK**
 - 📫 How to reach me **pythoncreator33@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Pasha33Pro**
 
