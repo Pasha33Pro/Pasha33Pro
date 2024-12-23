@@ -8,10 +8,10 @@
 
 <div align="center">
   <h2></h2>
-  <a href="https://github.com/Pasha33Pro" target="_blank">
+  <a href="https://github.com/Pasha33Pro" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
-  <a href = "mailto:pythoncreator33@gmail.com">
+  <a href = "mailto:pythoncreator33@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
@@ -19,13 +19,13 @@
 
 <h3 align="left">📌 Connect with me:</h3>
 <p align="left">
-  <a href="https://codesandbox.com/Pasha33Pro" target="_blank">
+  <a href="https://codesandbox.com/Pasha33Pro" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="Pasha33Pro" height="50" width="60" /
   </a>
-  <a href="https://www.youtube.com/c/Pasha33Pro" target="_blank">
+  <a href="https://www.youtube.com/c/Pasha33Pro" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="Pasha33Pro" height="50" width="60" />
   </a>
-  <a href="https://discord.gg/pasha33pro" target="_blank">
+  <a href="https://discord.gg/pasha33pro" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="pasha33pro" height="60" width="60" />
   </a>
 </p>
