@@ -4,7 +4,7 @@
 - 🔭 I’m currently developing on **POINT GROW 2.0**
 - 🌱 I’m currently learning **VOSK**
 - 📫 How to reach me **pythoncreator33@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/Pasha33Pro**
+- 👨‍💻 Almost all of my projects are available here
 
 <div align="center">
   <h2></h2>
