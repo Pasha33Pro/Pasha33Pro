@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pasha33 Pro</h1>
 
 - 🔭 I’m currently developing on **POINT GROW 2.0**
-- 🌱 I’m currently learning **VOSK**
+- 🌱 I’m currently learning **ASP.NET**
 - 📫 How to reach me **pythoncreator33@gmail.com**
 - 👨‍💻 Almost all of my projects are available here
 
