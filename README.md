@@ -1,13 +1,12 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Pasha33 Pro</h1>
 
-- 🔭 I’m currently developing on **POINT GROW 2.0**
-- 🌱 I’m currently learning **ASP.NET**
+- 🔭 I’m currently developing **nothing**
+- 🌱 I’m currently learning **nothing**
 - 📫 How to reach me **pythoncreator33@gmail.com**
 - 👨‍💻 Almost all of my projects are available here
 
 <div align="center">
-  <h2></h2>
   <a href="https://github.com/Pasha33Pro" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
