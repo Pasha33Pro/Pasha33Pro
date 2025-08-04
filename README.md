@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Pasha33 Pro</h1>
+<h1 align="center">HELLO 👋, I'm Pasha33 Pro</h1>
 
 - 🔭 I’m currently developing **nothing**
 - 🌱 I’m currently learning **nothing**
