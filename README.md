@@ -2,7 +2,7 @@
 <h1 align="center">HELLO 👋, I'm Pasha33 Pro</h1>
 
 - 🔭 I’m currently developing **nothing**
-- 🌱 I’m currently learning **nothing**
+- 🌱 I’m currently learning **EMG muscle sensor**
 - 📫 How to reach me **pythoncreator33@gmail.com**
 - 👨‍💻 Almost all of my projects are available here
 
