@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">HELLO 👋, I'm Pasha33 Pro</h1>
 
-- 🔭 I’m currently developing **nothing**
-- 🌱 I’m currently learning **EMG muscle sensor**
+- 🔭 I'm currently developing: **a wireless 4DOF robot arm controlled by EMG + IMU (master–slave teleoperation on two ESP8266)**
+- 🌱 I'm currently learning: **embedded C/C++, ESP8266 & UDP streaming, MPU6050, servo/motor control, DIY bio-prosthetics**
 - 📫 How to reach me **pythoncreator33@gmail.com**
 - 👨‍💻 Almost all of my projects are available here
 
