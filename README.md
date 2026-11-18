@@ -1,64 +1,49 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">HELLO 👋, I'm Pasha33 Pro</h1>
 
-- 🔭 I'm currently developing: **a wireless 4DOF robot arm controlled by EMG + IMU (master–slave teleoperation on two ESP8266)**
-- 🌱 I'm currently learning: **embedded C/C++, ESP8266 & UDP streaming, MPU6050, servo/motor control, DIY bio-prosthetics**
-- 📫 How to reach me **pythoncreator33@gmail.com**
-- 👨‍💻 Almost all of my projects are available here
+<h1 align="center">Привет 👋, я Pasha33 Pro</h1>
+<p align="center">
+  Python-разработчик | Embedded Systems | Computer Vision Enthusiast
+</p>
 
 <div align="center">
-  <a href="https://github.com/Pasha33Pro" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  <a href="https://github.com/Pasha33Pro" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href = "mailto:pythoncreator33@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:pythoncreator33@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.gg/pasha33pro" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.youtube.com/c/Pasha33Pro" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </div>
 
+<br />
 
-<h3 align="left">📌 Connect with me:</h3>
-<p align="left">
-  <a href="https://codesandbox.com/Pasha33Pro" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="Pasha33Pro" height="50" width="60" /
-  </a>
-  <a href="https://www.youtube.com/c/Pasha33Pro" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="Pasha33Pro" height="50" width="60" />
-  </a>
-  <a href="https://discord.gg/pasha33pro" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="pasha33pro" height="60" width="60" />
-  </a>
-</p>
-<h3 align="center">💻 Frontend and Backend:</h3>
-<p align="center" >
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="55" height="55"/>
-</p>
-<h3 align="right">🛠️ Languages and Tools:</h3>
-<p align="right" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="55" height="55"/>
-</p>
-<h3 align="left">🗂 Others: </h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/appwriteio-icon.svg" alt="Appwrite" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/canvasjs-charts.svg" alt="Canvasjs" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="55" height="55"/>
-</p>
+- 🔭 **Сейчас разрабатываю:** Беспроводную 4-DOF роботизированную руку, управляемую через EMG + IMU (master–slave телеоперация на двух ESP8266).
+- 🌱 **Сейчас изучаю:** Embedded C/C++, UDP streaming на ESP8266, работу с MPU6050, управление сервоприводами и DIY биопротезирование.
+- 📫 **Связь:** [pythoncreator33@gmail.com](mailto:pythoncreator33@gmail.com)
 
-<h3 align="center">📊 STATS:</h3>
+<br />
+
+<h3 align="center">🛠️ Языки и Технологии</h3>
 <p align="center">
-  <img align="center" height="205em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pasha33Pro&theme=swift" alt="Pasha33Pro" />
-</p>
-<p align="center">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasha33Pro&hide_progress=true&theme=swift" alt=Pasha33Pro />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,nodejs,mysql,sqlite,arduino,git,github&theme=light" alt="Tech Stack" />
 </p>
 
+<br />
+
+<h3 align="center">📊 Статистика GitHub</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pasha33Pro&show_icons=true&theme=swift&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasha33Pro&theme=swift&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasha33Pro&layout=compact&theme=swift&hide_border=true" alt="Top Languages" />
+</p>
+
+<br />
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
